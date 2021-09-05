@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T12:48:22.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="VVYGXDQWYKyB6v_433c1" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-05T12:55:46.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="O1unMuxrHEaHGXc8P-1r" version="14.5.10" type="github">
   <diagram id="lQbhDGxogrssM2cnBjjg" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,8 @@
         <mxCell id="xgXOS_-53twv-PHmrjcY-26" value="计算引擎/AI" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270" y="980" width="680" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="xgXOS_-53twv-PHmrjcY-27" value="数据平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1240" width="820" height="240" as="geometry" />
+        <mxCell id="xgXOS_-53twv-PHmrjcY-27" value="数据平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1270" width="820" height="210" as="geometry" />
         </mxCell>
         <mxCell id="xgXOS_-53twv-PHmrjcY-28" value="风险标签管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="100" height="30" as="geometry" />
@@ -292,6 +292,45 @@
         </mxCell>
         <mxCell id="xgXOS_-53twv-PHmrjcY-99" value="关系展示" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B09500;fontColor=#ffffff;fillColor=#FF33FF;" vertex="1" parent="1">
           <mxGeometry x="890" y="1050" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-100" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.073;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgXOS_-53twv-PHmrjcY-27" target="xgXOS_-53twv-PHmrjcY-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1190" as="sourcePoint" />
+            <mxPoint x="570" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-101" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.396;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xgXOS_-53twv-PHmrjcY-27" target="xgXOS_-53twv-PHmrjcY-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.86000000000013" y="1278.95" as="sourcePoint" />
+            <mxPoint x="200" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-103" value="ETL(数据清洗，抽取，自动画调度工具)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1390" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-104" value="数据可视化查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-105" value="主题库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-106" value="数据可视化查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-107" value="风险集市" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-108" value="原生数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-109" value="基础数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-110" value="数据模型层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-112" value="数据应用层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4A6FF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1350" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
