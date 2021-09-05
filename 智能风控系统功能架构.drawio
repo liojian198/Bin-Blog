@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T12:29:18.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="cZyhUSEgUH1ItmlOVRhZ" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-05T12:37:24.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="mzsW0A8iJYccXLlQlsB0" version="14.5.10" type="github">
   <diagram id="lQbhDGxogrssM2cnBjjg" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="xgXOS_-53twv-PHmrjcY-4" value="贷后风险人工审查系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="870" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xgXOS_-53twv-PHmrjcY-5" target="xgXOS_-53twv-PHmrjcY-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xgXOS_-53twv-PHmrjcY-5" value="接口管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="130" y="260" width="120" height="960" as="geometry" />
@@ -79,6 +82,9 @@
         </mxCell>
         <mxCell id="xgXOS_-53twv-PHmrjcY-24" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="270" y="440" width="680" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgXOS_-53twv-PHmrjcY-25" target="xgXOS_-53twv-PHmrjcY-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xgXOS_-53twv-PHmrjcY-25" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270" y="710" width="680" height="240" as="geometry" />
@@ -169,6 +175,48 @@
         </mxCell>
         <mxCell id="xgXOS_-53twv-PHmrjcY-54" value="呼叫报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="830" y="630" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-60" value="指标管理系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="725" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-61" value="决策引擎系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="505" y="725" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-62" value="风控服务管理系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="725" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-63" value="指标上线/下线管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="755" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-64" value="指标编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-65" value="指标配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="850" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-66" value="指标计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-68" value="规则" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="530" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-69" value="模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="620" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-70" value="评分卡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="530" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-71" value="决策流管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="530" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-72" value="模型监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="620" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-73" value="表达式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="620" y="815" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgXOS_-53twv-PHmrjcY-74" value="风控报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="580" y="900" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
